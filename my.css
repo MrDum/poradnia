@@ -1,0 +1,19 @@
+
+div {
+    text-align: center;
+}
+
+
+img {
+    width: 1000px;
+    height: 1000px;
+}
+
+#wrapper
+{
+text-align: center;width:auto;margin:0 auto
+}
+.inner
+{
+display:inline-block;
+}
