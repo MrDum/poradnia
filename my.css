@@ -1,19 +1,23 @@
-
 div {
     text-align: center;
 }
 
 
 img {
-    width: 1000px;
-    height: 1000px;
+    width: 400px;
+    height: 400px;
 }
 
-#wrapper
-{
-text-align: center;width:auto;margin:0 auto
+#wrapper {
+    text-align: center;
+    width: auto;
+    margin: 0 auto
 }
-.inner
-{
-display:inline-block;
+
+.inner {
+    display: inline-block;
 }
+
+h2 {
+    font-size: 30px;
+  }
