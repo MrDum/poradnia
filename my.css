@@ -3,10 +3,11 @@ div {
 }
 
 
-img {
-    width: 400px;
-    height: 400px;
+#test {
+    width: 600px;
+    height: 600px;
 }
+
 
 #wrapper {
     text-align: center;
